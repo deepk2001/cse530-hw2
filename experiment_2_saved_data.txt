@@ -1,0 +1,4 @@
+associativity,2,4,8,16
+Data array: Area (mm2):,8.33606,8.33802,8.87324,11.742
+Total dynamic read energy per access (nJ):,0.808185,0.822114,1.18587,2.06554
+Access time (ns):,2.61812,2.62333,3.13704,4.92534
